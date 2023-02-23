@@ -1,0 +1,17 @@
+{
+  "name": "sample-jwt",
+  "version": "1.0.0",
+  "description": "Sample JWT Express API using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "NodeJS",
+    "TypeScript",
+    "JWT"
+  ],
+  "author": "devaku",
+  "license": "ISC"
+}
